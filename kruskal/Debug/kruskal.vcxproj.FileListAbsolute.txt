@@ -1,0 +1,2 @@
+C:\Users\rajii\source\repos\kruskal\Debug\kruskal.exe
+C:\Users\rajii\source\repos\kruskal\Debug\kruskal.pdb
